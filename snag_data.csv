@@ -1,0 +1,106 @@
+ID,Snag,System,Rectification
+SN0001,Hydraulic pump failure,Hydraulic System,Tested and found serviceable
+SN0002,Autopilot disengages intermittently,Avionics,Flushed and refilled system
+SN0003,Elevator movement restricted,Flight Controls,Flushed and refilled system
+SN0004,Main gear door not closing fully,Landing Gear,Repaired wiring
+SN0005,Alternator voltage fluctuating,Electrical,Checked and calibrated system
+SN0006,Engine surges during climb,Engine,Flushed and refilled system
+SN0007,Overhead reading light not working,Cabin,Cleaned components
+SN0008,Fuel quantity mismatch in tanks,Fuel System,Flushed and refilled system
+SN0009,Cabin temperature drops suddenly,Air Conditioning,Checked and calibrated system
+SN0010,GPS signal loss in cruise,Navigation,Lubricated moving parts
+SN0011,Warning chime sounds without cause,Cockpit Systems,Repaired wiring
+SN0012,Brake pedal feel spongy,Braking System,Replaced faulty unit
+SN0013,Spoilers deploy late on landing,Spoilers,Performed system reset
+SN0014,PFD screen goes blank,Display Systems,Replaced damaged component
+SN0015,Flaps stuck at 15 degrees,Flap System,Replaced faulty unit
+SN0016,Reservoir low level indication false,Hydraulic System,Cleared obstruction
+SN0017,Transponder not responding to ATC,Avionics,Flushed and refilled system
+SN0018,Rudder pedal resistance high,Flight Controls,Tested and found serviceable
+SN0019,Gear position indication error,Landing Gear,Performed system reset
+SN0020,Circuit breaker pops during taxi,Electrical,Cleaned components
+SN0021,Oil pressure reading too low,Engine,Cleared obstruction
+SN0022,Emergency light not illuminating,Cabin,Flushed and refilled system
+SN0023,Fuel vent line blocked,Fuel System,Replaced control module
+SN0024,Vent airflow uneven in cabin,Air Conditioning,Performed system reset
+SN0025,VOR signal deviation fluctuates,Navigation,Replaced control module
+SN0026,Standby compass unreadable,Cockpit Systems,Repaired wiring
+SN0027,Brake temp sensor faulty,Braking System,Checked and calibrated system
+SN0028,Right spoiler panel unresponsive,Spoilers,Replaced sensor
+SN0029,Navigation display lags,Display Systems,Replaced faulty unit
+SN0030,Flap retraction takes too long,Flap System,Checked and calibrated system
+SN0031,Hydraulic accumulator pressure low,Hydraulic System,Replaced faulty unit
+SN0032,Audio panel feedback loop,Avionics,Tested and found serviceable
+SN0033,Control yoke vibration,Flight Controls,Replaced control module
+SN0034,Gear retraction delayed,Landing Gear,Performed system reset
+SN0035,Battery charger inoperative,Electrical,Replaced control module
+SN0036,Fuel control unit fault,Engine,Repaired wiring
+SN0037,Cabin speaker distorted,Cabin,Replaced actuator
+SN0038,Fuel boost pump failure,Fuel System,Repaired wiring
+SN0039,Cabin humidity excessively high,Air Conditioning,Tightened loose connections
+SN0040,Flight director bars erratic,Navigation,Checked and calibrated system
+SN0041,Clock time reset randomly,Cockpit Systems,Repaired wiring
+SN0042,Auto-brake not arming,Braking System,Replaced actuator
+SN0043,Spoiler deployment asymmetrical,Spoilers,Repaired wiring
+SN0044,Multifunction display frozen,Display Systems,Cleaned components
+SN0045,Flap asymmetry light false warning,Flap System,Tested and found serviceable
+SN0046,Pump motor overheating,Hydraulic System,Replaced sensor
+SN0047,ADF tuning knob loose,Avionics,Cleaned components
+SN0048,Trim tab misalignment,Flight Controls,Replaced sensor
+SN0049,Nose wheel shimmy on landing,Landing Gear,Cleaned components
+SN0050,Navigation lights flicker,Electrical,Secured fittings
+SN0051,Ignition system intermittent,Engine,Checked and calibrated system
+SN0052,Seat belt sign not illuminating,Cabin,Replaced damaged component
+SN0053,Crossfeed selector hard to turn,Fuel System,Secured fittings
+SN0054,Evaporator fan noisy,Air Conditioning,Replaced faulty unit
+SN0055,ILS signal inconsistent,Navigation,Tightened loose connections
+SN0056,Yaw damper inop message,Cockpit Systems,Replaced faulty unit
+SN0057,Brake accumulator not pressurizing,Braking System,Replaced actuator
+SN0058,Spoiler handle loose,Spoilers,Cleaned components
+SN0059,TCAS target lag on screen,Display Systems,Lubricated moving parts
+SN0060,Flap extension noisy,Flap System,Replaced actuator
+SN0061,Hydraulic leak at actuator,Hydraulic System,Tested and found serviceable
+SN0062,Weather radar not sweeping,Avionics,Replaced faulty unit
+SN0063,Pitch trim runaway,Flight Controls,Replaced faulty unit
+SN0064,Tire pressure sensor false reading,Landing Gear,Replaced sensor
+SN0065,Inverter not switching properly,Electrical,Flushed and refilled system
+SN0066,Compressor stall on engine start,Engine,Lubricated moving parts
+SN0067,Galley power outlet inoperative,Cabin,Flushed and refilled system
+SN0068,Fuel leak detected at coupling,Fuel System,Checked and calibrated system
+SN0069,Overhead air vent not working,Air Conditioning,Flushed and refilled system
+SN0070,FMS route entry freezes,Navigation,Replaced actuator
+SN0071,Checklist system non-responsive,Cockpit Systems,Lubricated moving parts
+SN0072,Brake wear indicator stuck,Braking System,Replaced faulty unit
+SN0073,Spoiler indicator not illuminating,Spoilers,Tightened loose connections
+SN0074,Standby display brightness erratic,Display Systems,Replaced control module
+SN0075,Flap motor overheated,Flap System,Tightened loose connections
+SN0076,Pressure line vibration,Hydraulic System,Checked and calibrated system
+SN0077,Control display unit blank,Avionics,Cleared obstruction
+SN0078,Left aileron stiff,Flight Controls,Tested and found serviceable
+SN0079,Gear horn sounds after extension,Landing Gear,Replaced control module
+SN0080,Windshield heater inoperative,Electrical,Repaired wiring
+SN0081,Throttle response delayed,Engine,Replaced control module
+SN0082,Cabin door latch sensor fault,Cabin,Replaced damaged component
+SN0083,Fuel filter clogged,Fuel System,Replaced actuator
+SN0084,Compressor cycle too frequent,Air Conditioning,Replaced actuator
+SN0085,Heading bug not locking,Navigation,Replaced control module
+SN0086,Mic switch stuck,Cockpit Systems,Flushed and refilled system
+SN0087,Anti-skid test fails,Braking System,Cleaned components
+SN0088,Manual override not engaging,Spoilers,Tested and found serviceable
+SN0089,Display refresh rate low,Display Systems,Replaced control module
+SN0090,Flap retraction asymmetrical,Flap System,Cleared obstruction
+SN0091,Pressure switch faulty,Hydraulic System,Cleaned components
+SN0092,Standby radio volume stuck,Avionics,Replaced damaged component
+SN0093,Elevator trim tabs noisy,Flight Controls,Replaced faulty unit
+SN0094,Gear uplock fails to release,Landing Gear,Replaced sensor
+SN0095,Cabin power failure on ground,Electrical,Replaced control module
+SN0096,Bleed air leak,Engine,Checked and calibrated system
+SN0097,Oxygen mask compartment jammed,Cabin,Flushed and refilled system
+SN0098,Fuel temp sensor fault,Fuel System,Checked and calibrated system
+SN0099,Cooling duct insulation loose,Air Conditioning,Replaced sensor
+SN0100,INS drift excessive,Navigation,Replaced control module
+SN0101,PFD/ND mismatch,Cockpit Systems,Cleaned components
+SN0102,Toe brakes uneven response,Braking System,Flushed and refilled system
+SN0103,Speedbrake lever not stowing,Spoilers,Lubricated moving parts
+SN0104,Display shows ghosting,Display Systems,Checked and calibrated system
+SN0105,Flap extension interrupted,Flap System,Tested and found serviceable

@@ -1,0 +1,15 @@
+langchain 
+langchain_openai
+langchain_core
+python-dotenv
+langchain_community
+langchain_transformers  
+langserve
+fastapi
+uvicorn
+sse_starlette
+bs4
+pandas
+faiss-cpu
+sentence-transformers
+

@@ -16,7 +16,7 @@ os.environ["GOOGLE_API_KEY"] = os.getenv("GOOGLE_API_KEY")
 os.environ["LANGCHAIN_API_KEY"] = os.getenv("LANGCHAIN_API_KEY")
 
 st.set_page_config(page_title="Snag Rectifier", layout="wide")
-st.markdown("<h1 style='text-align: center;'>Snag Rectification Recommender System</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Sky Sentinal: Snag Rectification System</h1>", unsafe_allow_html=True)
 
 st.markdown("""
 <style>

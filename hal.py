@@ -175,6 +175,7 @@ with tab1:
         )
     
     with col2:
+        st.markdown("<br>", unsafe_allow_html=True)  # Add space to align with text input
         analyze_button = st.button("🔍 Analyze Snag", type="primary", use_container_width=True)
     
     # Processing
